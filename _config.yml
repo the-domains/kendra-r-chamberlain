@@ -1,0 +1,28 @@
+name: Kendra R Chamberlain
+favicon: null
+layout_spectrum: 0.04289430472999811
+typography_spectrum: 0.40434916061349213
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3098094603046775
+  lightness: 0.7907201177440584
+  saturation: 0.5946241202764213
+  rhythmicContrast: 0.21164396381936967
+purpose: []
